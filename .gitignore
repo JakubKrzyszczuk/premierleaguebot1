@@ -1,5 +1,3 @@
-# Ignorowanie folderu .venv
-.venv/
 
 # Ignorowanie plików tymczasowych
 *.pyc
