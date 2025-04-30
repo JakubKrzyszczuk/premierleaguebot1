@@ -1,0 +1,10 @@
+# Ignorowanie folderu .venv
+.venv/
+
+# Ignorowanie plików tymczasowych
+*.pyc
+*.pyo
+
+# Ignorowanie plików konfiguracyjnych IDE
+.vscode/
+.idea/
